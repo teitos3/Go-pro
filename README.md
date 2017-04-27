@@ -1,2 +1,0 @@
-# Go-pro
-new-study
